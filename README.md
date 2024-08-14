@@ -6,8 +6,8 @@ Right now, I'm working on my first ever iOS and watchOS app called Grizzco Handb
 ## Projects
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Bentheminernz/bentheminernz/main/ReadMeIcon.png" width="150">
+  <img src="https://raw.githubusercontent.com/Bentheminernz/bentheminernz/main/ReadMeIcon.png" width="100">
   <br>
   <b>Grizzco Handbook</b>
+  <img src="https://github.com/Bentheminernz/bentheminernz/blob/main/AppScreenshotCollection.png?raw=true" width="650">
 </h1>
-[![Projects](https://github.com/Bentheminernz/bentheminernz/blob/main/AppScreenshotCollection.png?raw=true)](https://bentheminernz.com/grizzco)
