@@ -9,5 +9,6 @@ Right now, I'm working on my first ever iOS and watchOS app called Grizzco Handb
   <img src="https://raw.githubusercontent.com/Bentheminernz/bentheminernz/main/ReadMeIcon.png" width="100">
   <br>
   <b>Grizzco Handbook</b>
+  <br>
   <img src="https://github.com/Bentheminernz/bentheminernz/blob/main/AppScreenshotCollection.png?raw=true" width="650">
 </h1>
