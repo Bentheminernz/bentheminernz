@@ -6,9 +6,11 @@ Currently I'm working on various iOS apps, [Splashcat](https://github.com/splash
 ## Projects
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Bentheminernz/bentheminernz/main/ReadMeIcon.png" width="100">
-  <br>
-  <b>Grizzco Handbook</b>
-  <br>
-  <img src="https://github.com/Bentheminernz/bentheminernz/blob/main/AppScreenshotCollection.png?raw=true" width="650">
+  <a href="https://github.com/Bentheminernz/GrizzcoHandbook">
+    <img src="https://raw.githubusercontent.com/Bentheminernz/bentheminernz/main/ReadMeIcon.png" width="100">
+    <br>
+    <b>Grizzco Handbook</b>
+    <br>
+    <img src="https://github.com/Bentheminernz/bentheminernz/blob/main/AppScreenshotCollection.png?raw=true" width="650">
+  </a>
 </h1>
